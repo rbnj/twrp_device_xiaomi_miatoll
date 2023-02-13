@@ -33,4 +33,4 @@
 /persist_img        emmc    /dev/block/bootdevice/by-name/persist                     flags=display="Persist Image";backup
 
 /external_sd        auto    /dev/block/mmcblk0p1  		/dev/block/mmcblk0    flags=fsflags=utf8;removable;storage;wipeingui
-/usb-otg       	    auto    /dev/block/sdg1                     /dev/block/sdg        flags=fsflags=utf8;removable;storage;wipeingui
+/usb-otg       	    auto    /dev/block/sdg1                     /dev/block/sdg4        flags=fsflags=utf8;removable;storage;wipeingui
