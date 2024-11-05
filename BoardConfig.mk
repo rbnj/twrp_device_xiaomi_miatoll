@@ -58,3 +58,6 @@ BOARD_AVB_RECOVERY_ROLLBACK_INDEX_LOCATION := 1
 
 # TWRP Configuration
 include $(DEVICE_PATH)/BoardConfigTWRP.mk
+
+# PBRP specific flags
+PB_TORCH_PATH := "/sys/class/leds/led:torch_0"
