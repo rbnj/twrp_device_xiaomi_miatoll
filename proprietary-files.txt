@@ -6,6 +6,7 @@ vendor/firmware/aw8624_haptic.bin
 vendor/firmware/aw8624_rtp_1.bin
 vendor/firmware/drv2624.bin
 vendor/firmware/drv2624.rtp
+vendor/firmware/focaltech_ts_fw_huaxing.bin
 vendor/firmware/novatek_ts_tianma_fw.bin
 vendor/firmware/novatek_ts_tianma_mp.bin
 vendor/firmware/osc_rtp_24K_5s.bin
